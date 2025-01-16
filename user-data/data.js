@@ -70,13 +70,15 @@ export const experience = [
     icon: "qrcode",
   },
   {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    title: "Citrix R&D, Bengaluru",
+    duration: "June 2011 - OCT 2012",
+    subtitle: "Software Development Engineer",
     details: [
-      `Developed a customer web application for social media management, supporting the advertisement domain.`,
+      `Implemented Auto-Scaling & LBaaS in Apache CloudStack with NetScaler`, 
+      `Openstack Nova Iptables drivers to enable Security Groups 
+        and Provider Firewall for Xen Cloud Platform `,
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+    tags: ["Python", "Django", "Scripting", "Java", "Netscaler"],
     icon: "group",
   },
 ];
@@ -84,34 +86,19 @@ export const experience = [
 export const trekking = [
   '<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)',
   '<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)',
-  '<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)',
-  '<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)',
-  '<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)',
 ];
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "B.Tech. in Electronics & Communication Engineering",
+    duration: "2007 - 2011",
+    subtitle: "Indian Institute of Technology Guwahati",
     details: [],
     tags: [
       "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
       "Cloud Computing",
     ],
     icon: "graduation-cap",
-  },
-  {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
-    details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
-    icon: "book",
   },
 ];
 
