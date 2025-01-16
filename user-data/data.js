@@ -1,7 +1,20 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "I’m a passionate and experienced <strong>Frontend Engineer</strong> specializing in developing dynamic web applications using Angular and React. I thrive on optimizing performance and delivering innovative, user-focused solutions.",
-  "Beyond coding, I enjoy traveling through the serene <strong>Himalayan mountains</strong> and experimenting with new recipes in the <strong>kitchen</strong>.",
+  "Hello, I'm <strong>Deepak</strong>!",
+  `Senior Security Engineer with over 13 years of experience in designing, 
+  building, and securing scalable SaaS platforms, incorporating Trust by Design 
+  principles and a Shift Left Security mindset throughout the SSDLC. 
+  Proficient in leading the development and delivery of cloud-native 
+  applications with control plane and data plane architectures across 
+  AWS, Azure, and GCP. My expertise as an Offensive Security Pentester 
+  and Developer, complemented by hands-on experience in startups and 
+  large corporations puts me in a unique position to assess org’s 
+  security posture, identify vulnerabilities early and implement 
+  proactive strategies. Adept at threat modeling, aligning with compliance 
+  frameworks, and driving 
+  secure-by-default solutions to establish and maintain trust across stakeholders`,
+  `Beyond coding, I enjoy traveling through the serene 
+    <strong>Himalayan mountains</strong> and experimenting with new 
+    recipes in the <strong>kitchen</strong>`,
 ];
 
 export const skills = [
@@ -170,6 +183,6 @@ export const footer = [
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
+    data: ["Made with &hearts; by Deepak Garg"],
   },
 ];
