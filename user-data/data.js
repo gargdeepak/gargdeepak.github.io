@@ -84,6 +84,35 @@ export const experience = [
   },
 ];
 
+
+export const openSourcePRs = [
+    {
+        name: "IPFS",
+        url:  "https://review.opendev.org/q/deepakgarg.iitg%2540gmail.com",
+    },
+    {
+        name: "CloudStack",
+        url: "https://reviews.apache.org/users/deepak/",
+    },
+    {
+        name: "Nova",
+        url: "https://blueprints.launchpad.net/nova/+spec/xenapi-provider-firewall",
+    },
+    {
+        name: "IPFS Cluster",
+        url: "https://cwiki.apache.org/confluence/display/CLOUDSTACK/Autoscaling",
+    },
+    {
+        name: "IPFS Cluster",
+        url: "https://github.com/ipfs/go-ipfs-cmds/pulls?q=is%3Apr+author%3Agargdeepak+is%3Aclosed",
+    },
+    {
+        name: "IPFS Cluster",
+        url: "https://github.com/ipfs-cluster/ipfs-cluster/pulls?q=is%3Apr+author%3Agargdeepak+is%3Aclosed"
+    },
+];
+
+
 export const trekking = [
   '<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)',
   '<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)',
