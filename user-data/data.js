@@ -87,23 +87,23 @@ export const experience = [
 
 export const openSourcePRs = [
     {
-        name: "IPFS",
+        name: "OpenStack PRs - Nova, Neutron, DevStack, Keystone",
         url:  "https://review.opendev.org/q/deepakgarg.iitg%2540gmail.com",
     },
     {
-        name: "CloudStack",
+        name: "Apache CloudStack",
         url: "https://reviews.apache.org/users/deepak/",
     },
     {
-        name: "Nova",
+        name: "XenaPI Provider Firewall Blueprint",
         url: "https://blueprints.launchpad.net/nova/+spec/xenapi-provider-firewall",
     },
     {
-        name: "IPFS Cluster",
+        name: "Apache CloudStack Autoscaling Blueprint",
         url: "https://cwiki.apache.org/confluence/display/CLOUDSTACK/Autoscaling",
     },
     {
-        name: "IPFS Cluster",
+        name: "Go-IPFS",
         url: "https://github.com/ipfs/go-ipfs-cmds/pulls?q=is%3Apr+author%3Agargdeepak+is%3Aclosed",
     },
     {

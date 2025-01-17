@@ -5,6 +5,7 @@ import {
   experience,
   trekking,
   footer,
+  openSourcePRs,
 } from "./user-data/data.js";
 
 import { URLs } from "./user-data/urls.js";
@@ -181,7 +182,7 @@ function populateBlogs(items, id) {
 
 function populateRepo(items, id) {
   const projectdesign = document.getElementById(id);
-  const count = 4; // Adjust this count based on the number of repos you want to display
+  const count = items.length;
 
   // Set up a wrapper div to hold repo cards in rows of 2
   const rowWrapper = document.createElement("div");
@@ -209,7 +210,7 @@ function populateRepo(items, id) {
 
     // Make the card clickable by wrapping the content inside an anchor tag
     const repoLink = document.createElement("a");
-    repoLink.href = `https://github.com/${items[i].author}/${items[i].name}`;
+    repoLink.href = `${items[i].url}`;
     repoLink.target = "_blank";
     repoLink.style =
       "text-decoration: none; color: black; display: block; height: 100%;";
@@ -389,7 +390,8 @@ populateBio(bio, "bio");
 
 populateSkills(skills, "skills");
 
-fetchReposFromGit(gitRepo);
+populateRepo(openSourcePRs, "repos");
+
 fetchGitConnectedData(gitConnected);
 
 populateExp_Edu(experience, "experience");
