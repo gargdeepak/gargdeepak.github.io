@@ -1,11 +1,12 @@
 export const bio = [
   "Hello, I'm <strong>Deepak</strong>!",
-  `Senior Security Engineer with over 13 years of experience in designing, 
-  building, and securing scalable SaaS platforms, incorporating Trust by Design 
-  principles and a Shift Left Security mindset throughout the SSDLC. 
+  `Senior Security Engineer with over <strong>13 years</strong> of experience in designing, 
+  building, and securing scalable SaaS platforms, incorporating 
+  <strong>Trust by Design</strong> 
+  principles and a <strong>Shift Left Security</strong> mindset throughout the SSDLC. 
   Proficient in leading the development and delivery of cloud-native 
   applications with control plane and data plane architectures across 
-  AWS, Azure, and GCP. My expertise as an Offensive Security Pentester 
+  <strong>AWS, Azure and GCP</strong>. My expertise as an Offensive Security Pentester 
   and Developer, complemented by hands-on experience in startups and 
   large corporations puts me in a unique position to assess org’s 
   security posture, identify vulnerabilities early and implement 
@@ -104,23 +105,6 @@ export const education = [
 
 export const footer = [
   //   {
-  //     label: "Dev Profiles",
-  //     data: [
-  //       {
-  //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-  //       },
-  //       {
-  //         text: "GitHub",
-  //         link: "https://github.com/vinaysomawat",
-  //       },
-  //       {
-  //         text: "LeetCode",
-  //         link: "https://leetcode.com/somawatvinay/",
-  //       },
-  //     ],
-  //   },
-  //   {
   //     label: "Resources",
   //     data: [
   //       {
@@ -130,10 +114,6 @@ export const footer = [
   //       {
   //         text: "Print this page",
   //         func: "window.print()",
-  //       },
-  //       {
-  //         text: "Clone this page",
-  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
   //       },
   //     ],
   //   },
@@ -160,6 +140,6 @@ export const footer = [
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by Deepak Garg"],
+    data: ["Made with &hearts; by Deepak"],
   },
 ];
