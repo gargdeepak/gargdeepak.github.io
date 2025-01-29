@@ -22,15 +22,34 @@ export const skills = [
   "Golang, Python, Web Penetration Testing, Offensive Security, BurpSuite",
   "GCP, AWS, Azure, Kubernetes",
   "OWASP Threat Dragon, checkov, semgrep, gitleaks",
+  "Kali Linux - nmap amass metasploit SQLMap",  
 ];
 
 export const experience = [
+  {
+    title: "sekurity.ai, Remote",
+    duration: "June 2024 - Present​",
+    subtitle: "Founding Engineer",
+    details: [
+      "Designing a AI Pentesting SaaS platform powered by OpenAI \
+        to discover, catalogue and continuously monitor a company’s\
+        digital assets - domains, certificates, any public information,\
+         infra (on prem and cloud) for security vulnerabilities"],
+    tags: ["Golang", "OpenAI", "RAG",
+      "Threat Modeling", "Red Teaming", "STRIDE",  
+      "SOC 2", "AI pipelines",  
+    ],
+    icon: "truck ",
+  },
   {
     title: "Striim.com, Palo Alto",
     duration: "Dec 2015 - Mar 2024​",
     subtitle: "Senior Software Engineer",
     details: ["Designed and secured the SaaS control and data plane"],
-    tags: ["Golang", "Red Teaming", "SOC 2", "AI pipelines"],
+    tags: ["Golang", 
+      "Threat Modeling", "Red Teaming", "STRIDE",  
+      "SOC 2", "AI pipelines",  
+    ],
     icon: "truck ",
   },
   {
