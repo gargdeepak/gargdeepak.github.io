@@ -34,23 +34,24 @@ export const experience = [
       "Designing a AI Pentesting SaaS platform powered by OpenAI \
         to discover, catalogue and continuously monitor a company’s\
         digital assets - domains, certificates, any public information,\
-         infra (on prem and cloud) for security vulnerabilities"],
+        infra (on prem and cloud) for security vulnerabilities"],
     tags: ["Golang", "OpenAI", "RAG",
       "Threat Modeling", "Red Teaming", "STRIDE",  
       "SOC 2", "AI pipelines",  
     ],
-    icon: "truck ",
+    icon: "shield",
   },
   {
     title: "Striim.com, Palo Alto",
     duration: "Dec 2015 - Mar 2024​",
     subtitle: "Senior Software Engineer",
-    details: ["Designed and secured the SaaS control and data plane"],
+    details: ["Designed and secured the SaaS control and data plane \
+      deployed in AWS, Azure and GCP",],
     tags: ["Golang", 
       "Threat Modeling", "Red Teaming", "STRIDE",  
-      "SOC 2", "AI pipelines",  
+      "SOC 2", "PIA", "Web Application Pentesting", "AI pipelines",  
     ],
-    icon: "truck ",
+    icon: "asterisk",
   },
   {
     title: "Apptio, Seattle",
@@ -74,7 +75,7 @@ export const experience = [
       "EhCache",
       "etc.",
     ],
-    icon: "heartbeat",
+    icon: "database",
   },
   {
     title: "Amazon, Seattle",
@@ -87,7 +88,7 @@ export const experience = [
       from S3 to an EMR cluster`,
     ],
     tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "qrcode",
+    icon: "amazon",
   },
   {
     title: "Citrix R&D, Bengaluru",
