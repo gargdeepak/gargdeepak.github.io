@@ -19,10 +19,11 @@ export const bio = [
 ];
 
 export const skills = [
-  "Golang, Python, Web Penetration Testing, Offensive Security, BurpSuite",
-  "GCP, AWS, Azure, Kubernetes",
-  "OWASP Threat Dragon, checkov, semgrep, gitleaks",
-  "Kali Linux - nmap amass metasploit SQLMap",  
+  "Web Penetration Testing, Product Security, Offensive Security",
+  "GCP, AWS, Azure, Kubernetes, Prowler, ScoutSuite, Container Security",
+  "OWASP Threat Dragon, BurpSuite, SAST/DAST - checkov, semgrep, gitleaks",
+  "Golang, Python, Bash, Java, JavaScript, SQL", 
+  "Kali Linux - amass, metasploit, brutespray, gobuster, ffuf, nuclei, SQLMap etc. etc.",  
 ];
 
 export const experience = [
@@ -31,10 +32,12 @@ export const experience = [
     duration: "June 2024 - Present​",
     subtitle: "Founding Engineer",
     details: [
-      "Designing a AI Pentesting SaaS platform powered by OpenAI \
-        to discover, catalogue and continuously monitor a company’s\
-        digital assets - domains, certificates, any public information,\
-        infra (on prem and cloud) for security vulnerabilities"],
+      "Designing an AI-driven Attack Surface Management and Pentesting SaaS \
+       platform leveraging OpenAI to automate security assessments. \
+       It discovers, catalogues and continuously monitors a company’s \
+       digital assets - domains, SSL certificates, OSINT -wayback \
+       archives etc., infra (on prem and cloud) to proactively identify \
+       vulnerabilities, misconfigurations and potential threats"],
     tags: ["Golang", "OpenAI", "RAG",
       "Threat Modeling", "Red Teaming", "STRIDE",  
       "SOC 2", "AI pipelines",  
@@ -43,9 +46,9 @@ export const experience = [
   },
   {
     title: "Striim.com, Palo Alto",
-    duration: "Dec 2015 - Mar 2024​",
+    duration: "Dec 2015 - Mar 2024​ (9 years, 3 months)",
     subtitle: "Senior Software Engineer",
-    details: ["Designed and secured the SaaS control and data plane \
+    details: ["Designed and secured the SaaS control and data plane with 200+ microservices \
       deployed in AWS, Azure and GCP",],
     tags: ["Golang", 
       "Threat Modeling", "Red Teaming", "STRIDE",  
@@ -55,7 +58,7 @@ export const experience = [
   },
   {
     title: "Apptio, Seattle",
-    duration: "April 2013 - December 2015",
+    duration: "April 2013 - December 2015 (2 years, 9 months)",
     subtitle: "Software Development Engineer 2",
     details: [
       `De-architected the monolith into separate modules - libraries and microservices`,
@@ -79,7 +82,7 @@ export const experience = [
   },
   {
     title: "Amazon, Seattle",
-    duration: "October 2012 - April 2013",
+    duration: "October 2012 - April 2013 (7 months)",
     subtitle: "Software Development Engineer",
     details: [
       `Designed the HATS service to track how much Amazon internal 
@@ -92,7 +95,7 @@ export const experience = [
   },
   {
     title: "Citrix R&D, Bengaluru",
-    duration: "June 2011 - OCT 2012",
+    duration: "June 2011 - OCT 2012 (1 year, 5 months)",
     subtitle: "Software Development Engineer",
     details: [
       `Implemented Auto-Scaling & LBaaS in Apache CloudStack with NetScaler`, 
