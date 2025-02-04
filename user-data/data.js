@@ -1,25 +1,37 @@
 export const bio = [
   "Hello, I'm <strong>Deepak</strong>!",
-  `Senior Security Engineer with over <strong>13 years</strong> of experience in designing, 
+  `<ul class="custom-bullet">
+      <li>Senior Security Engineer with over <strong>13 years</strong> of experience in designing, 
   building, and securing scalable SaaS platforms, incorporating 
   <strong>Trust by Design</strong> 
   principles and a <strong>Shift Left Security</strong> mindset throughout the SSDLC. 
-  Proficient in leading the development and delivery of cloud-native 
+      </li>
+    <li>
+    Proficient in leading the development and delivery of cloud-native 
   applications with control plane and data plane architectures across 
-  <strong>AWS, Azure and GCP</strong>. My expertise as an Offensive Security Pentester 
+  <strong>AWS, Azure and GCP</strong>. 
+    </li>
+    <li>
+  My expertise as an Offensive Security Pentester 
   and Developer, complemented by hands-on experience in startups and 
   large corporations puts me in a unique position to assess org’s 
   security posture, identify vulnerabilities early and implement 
-  proactive strategies. Adept at threat modeling, aligning with compliance 
+  proactive strategies. 
+    </li>
+    <li>
+  Adept at threat modeling, aligning with compliance 
   frameworks, and driving 
-  secure-by-default solutions to establish and maintain trust across stakeholders`,
+  secure-by-default solutions to establish and maintain trust across stakeholders
+    </li>
+  </ul>
+  `,
   `Beyond coding, I enjoy traveling through the serene 
     <strong>Himalayan mountains</strong> and experimenting with new 
     recipes in the <strong>kitchen</strong>`,
 ];
 
 export const skills = [
-  "Web Penetration Testing, Product Security, Offensive Security",
+  "Web/API Penetration Testing, Product Security, Offensive Security",
   "GCP, AWS, Azure, Kubernetes, Prowler, ScoutSuite, Container Security",
   "OWASP Threat Dragon, BurpSuite, SAST/DAST - checkov, semgrep, gitleaks",
   "Golang, Python, Bash, Java, JavaScript, SQL", 

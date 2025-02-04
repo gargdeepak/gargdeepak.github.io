@@ -2197,3 +2197,17 @@ hr {
 		color: #f9bf3f;
 	}
   }
+
+/* custome icon for ul in bio */
+
+ul.custom-bullet {
+	list-style-type: none; /* Remove default bullets */
+	padding-left: 1.5em;   /* Adjust padding for custom bullet */
+}
+
+ul.custom-bullet li::before {
+	content: '►';          /* Custom bullet icon */
+	color: #3498db;        /* Bullet color */
+	font-size: 1.2em;      /* Bullet size */
+	margin-right: 0.5em;   /* Space between bullet and text */
+}

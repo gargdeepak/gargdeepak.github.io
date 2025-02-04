@@ -85,10 +85,6 @@ window.addEventListener("DOMContentLoaded", async function () {
                     <p style="font-size: 12px; color: #666; margin: 0;">FOLLOWERS</p>
                     <p style="font-size: 20px; font-weight: bold; color: #222;">${followers}</p>
                 </div>
-                <div>
-                    <p style="font-size: 12px; color: #666; margin: 0;">FOLLOWING</p>
-                    <p style="font-size: 20px; font-weight: bold; color: #222;">${following}</p>
-                </div>
             </div>
         </a>
         `;
