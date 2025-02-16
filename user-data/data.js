@@ -2,7 +2,7 @@ export const bio = [
   "Hello, I'm <strong>Deepak</strong>!",
   `<ul class="custom-bullet">
       <li>Senior Security Engineer with over <strong>13 years</strong> of experience in designing, 
-  building, and securing scalable SaaS platforms, incorporating 
+  building and securing scalable SaaS platforms, incorporating 
   <strong>Trust by Design</strong> 
   principles and a <strong>Shift Left Security</strong> mindset throughout the SSDLC. 
       </li>
@@ -20,7 +20,7 @@ export const bio = [
     </li>
     <li>
   Adept at threat modeling, aligning with compliance 
-  frameworks, and driving 
+  frameworks and driving 
   secure-by-default solutions to establish and maintain trust across stakeholders
     </li>
   </ul>
@@ -88,8 +88,8 @@ export const experience = [
        Broken Function Level Authorization (BFLA), Mass Assignment
         and Auth Bypass. Exploited flaws in API access controls 
         and session management to demonstrate privilege escalation, 
-        unauthorized data access, and account takeovers. Tested for 
-        excessive data exposure, rate-limiting weaknesses, and insecure 
+        unauthorized data access and account takeovers. Tested for 
+        excessive data exposure, rate-limiting weaknesses and insecure 
         direct object references (IDOR)`,
     ],
     tags: [
@@ -107,10 +107,10 @@ export const experience = [
     duration: "October 2012 - April 2013 (7 months)",
     subtitle: "Software Development Engineer",
     details: [
-      `Designed the HATS service to track how much Amazon internal 
-      services cost each other from service logs.`,
-      `Implemented Hive queries for distributed copying and processing of logs 
-      from S3 to an EMR cluster`,
+      `Designed Secure Content Management Service – Architected a versioning 
+      system for data and content, ensuring auditability, integrity and
+       rollback capabilities. Implemented cryptographic signing and
+        hashing (SHA-256, HMAC) to prevent tampering and ensure data integrity`,
     ],
     tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
     icon: "amazon",
