@@ -58,7 +58,7 @@ export const experience = [
   },
   {
     title: "Striim.com, Palo Alto",
-    duration: "Dec 2015 - Mar 2024​ (9 years, 3 months)",
+    duration: "Dec 2015 - Mar 2024​ (8 years, 3 months)",
     subtitle: "Senior Software Engineer",
     details: [
       "Designed and secured the SaaS control and data plane with 200+ microservices \
@@ -73,25 +73,32 @@ export const experience = [
   },
   {
     title: "Apptio, Seattle",
-    duration: "April 2013 - December 2015 (2 years, 9 months)",
+    duration: "April 2013 - December 2015 (2 years, 7 months)",
     subtitle: "Software Development Engineer 2",
     details: [
-      `De-architected the monolith into separate modules - libraries and microservices`,
-      `Designed the Content Management Service to version data and 
-        content enabling users to rollback any activity`,
-      `Designed RESTful AuthN and AuthZ Service with integrations 
-        to OpenLDAP and Safenet KMS integration for storing sensitive customer data`,
-      `Designed the monitoring & logging service using open source Codahale metrics lib`,
+      `Led Application Security in Service-Oriented Architecture Migration – 
+      Decomposed a monolithic application into secure, modular libraries 
+      and microservices, embedding security-by-design principles. 
+      Implemented least privilege access controls, secure API communication, 
+      and encryption mechanisms to protect sensitive data.`,
+      `Pentesting a RESTful Authentication & Authorization Service – 
+      Conducted a security assessment of a RESTful authentication and
+       authorization service, identifying critical vulnerabilities 
+       such as Broken Object Level Authorization (BOLA), 
+       Broken Function Level Authorization (BFLA), Mass Assignment
+        and Auth Bypass. Exploited flaws in API access controls 
+        and session management to demonstrate privilege escalation, 
+        unauthorized data access, and account takeovers. Tested for 
+        excessive data exposure, rate-limiting weaknesses, and insecure 
+        direct object references (IDOR)`,
     ],
     tags: [
       "Python", 
-      "Java", 
-      "Logstash", 
-      "Graylog", 
-      "Graphite", 
-      "Codahale metrics", 
-      "EhCache",
-      "etc.",
+      "Burpsuite", 
+      "Postman",
+      "Java",
+      "Bash",
+      "python",
     ],
     icon: "database",
   },
