@@ -104,7 +104,7 @@ export const experience = [
   },
   {
     title: "Amazon, Seattle",
-    duration: "October 2012 - April 2013 (7 months)",
+    duration: "October 2012 - April 2013 (6 months)",
     subtitle: "Software Development Engineer",
     details: [
       `Designed Secure Content Management Service – Architected a versioning 
