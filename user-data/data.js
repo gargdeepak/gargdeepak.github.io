@@ -191,27 +191,7 @@ export const footer = [
   //       },
   //     ],
   //   },
-  {
-    label: "Links",
-    data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
-      //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
-      //   },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      },
-      {
-        text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-      },
-    ],
-  },
+
   {
     label: "copyright-text",
     data: ["Made with &hearts; by Deepak"],
