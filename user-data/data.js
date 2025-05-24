@@ -1,8 +1,8 @@
 export const bio = [
   "Hello, I'm <strong>Deepak</strong>!",
   `<ul class="custom-bullet">
-      <li>Senior Security Engineer with over <strong>13 years</strong> of experience in designing, 
-  building and securing scalable SaaS platforms, incorporating 
+      <li>Product Security Lead with over <strong>13 years</strong> of experience in designing, 
+  and securing scalable SaaS platforms, incorporating 
   <strong>Trust by Design</strong> 
   principles and a <strong>Shift Left Security</strong> mindset throughout the SSDLC. 
       </li>
@@ -40,8 +40,18 @@ export const skills = [
 
 export const experience = [
   {
+    title: "Qualtrics, Provo",
+    duration: "May 2025 - Present​",
+    subtitle: "Senior Product Security Engineer",
+    details: [],
+    tags: [ "Threat Modeling", "Red Teaming", "STRIDE",  
+      "SOC 2", "AI pipelines",  
+    ],
+    icon: "shield",
+  },  
+  {
     title: "sekurity.ai, Remote",
-    duration: "June 2024 - Present​",
+    duration: "June 2024 - April 2025",
     subtitle: "Founding Engineer",
     details: [
       "Designing an AI-driven Attack Surface Management and Pentesting SaaS \
