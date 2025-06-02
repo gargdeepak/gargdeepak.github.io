@@ -26,8 +26,10 @@ export const bio = [
   </ul>
   `,
   `Beyond coding, I enjoy traveling through the serene 
-    <strong>Himalayan mountains</strong> and experimenting with new 
-    recipes in the <strong>kitchen</strong>`,
+    <strong>Washington mountains</strong> and experimenting with new 
+    recipes in the <strong>kitchen</strong>. Whenever I can, 
+    I love to write my thoughts and experiences in InfoSec in my 
+    <a href="https://sekurity.hashnode.dev/"> <strong> Blog</strong> </a>`,
 ];
 
 export const skills = [
