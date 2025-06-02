@@ -6,11 +6,7 @@ export const bio = [
   <strong>Trust by Design</strong> 
   principles and a <strong>Shift Left Security</strong> mindset throughout the SSDLC. 
       </li>
-    <li>
-    Proficient in leading the development and delivery of cloud-native 
-  applications with control plane and data plane architectures across 
-  <strong>AWS, Azure and GCP</strong>. 
-    </li>
+
     <li>
   My expertise as an Offensive Security Pentester 
   and Developer, complemented by hands-on experience in startups and 
