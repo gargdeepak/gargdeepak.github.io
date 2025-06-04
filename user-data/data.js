@@ -1,7 +1,7 @@
 export const bio = [
   "Hello, I'm <strong>Deepak</strong>!",
   `<ul class="custom-bullet">
-      <li>Product Security Lead with over <strong>13 years</strong> of experience in designing, 
+      <li>Product Security Lead with over <strong>13 years</strong> of experience in designing 
   and securing scalable SaaS platforms, incorporating 
   <strong>Trust by Design</strong> 
   principles and a <strong>Shift Left Security</strong> mindset throughout the SSDLC. 
@@ -9,14 +9,14 @@ export const bio = [
 
     <li>
   My expertise as an Offensive Security Pentester 
-  and Developer, complemented by hands-on experience in startups and 
+  and Developer, complemented with hands-on experience in startups and 
   large corporations puts me in a unique position to assess org’s 
   security posture, identify vulnerabilities early and implement 
   proactive strategies. 
     </li>
     <li>
-  Adept at threat modeling, aligning with compliance 
-  frameworks and driving 
+  Led many projects in threat modeling, aligning with compliance 
+  frameworks and led teams to drive 
   secure-by-default solutions to establish and maintain trust across stakeholders
     </li>
   </ul>
@@ -50,9 +50,9 @@ export const experience = [
   {
     title: "sekurity.ai, Remote",
     duration: "June 2024 - April 2025",
-    subtitle: "Founding Engineer",
+    subtitle: "Founder & CTO",
     details: [
-      "Designing an AI-driven Attack Surface Management and Pentesting SaaS \
+      "Designed an AI-driven Attack Surface Management and Pentesting SaaS \
        platform leveraging OpenAI to automate security assessments. \
        It discovers, catalogues and continuously monitors a company’s \
        digital assets - domains, SSL certificates, OSINT -wayback \
