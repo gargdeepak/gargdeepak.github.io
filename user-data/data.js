@@ -8,11 +8,9 @@ export const bio = [
       </li>
 
     <li>
-  My expertise as an Offensive Security Pentester 
-  and Developer, complemented with hands-on experience in startups and 
-  large corporations puts me in a unique position to assess org’s 
-  security posture, identify vulnerabilities early and implement 
-  proactive strategies. 
+  My leadership skills complemented with my expertise as an Offensive Security Pentester and 
+  Developer in startups and large corporations puts me in a unique position to assess 
+  org’s security posture, identify gaps early and implement proactive strategies  
     </li>
     <li>
   Led many projects in threat modeling, aligning with compliance 
