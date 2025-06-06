@@ -13,13 +13,13 @@ export const bio = [
   org’s security posture, identify gaps early and implement proactive strategies  
     </li>
     <li>
-  Led many projects in threat modeling, aligning with compliance 
+  Led projects in threat modeling, aligning with compliance 
   frameworks and led teams to drive 
   secure-by-default solutions to establish and maintain trust across stakeholders
     </li>
   </ul>
   `,
-  `Beyond coding, I enjoy traveling through the serene 
+  `Beyond coding, I enjoy hiking through the serene 
     <strong>Washington mountains</strong> and experimenting with new 
     recipes in the <strong>kitchen</strong>. Whenever I can, 
     I love to write my thoughts and experiences in InfoSec in my 
