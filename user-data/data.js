@@ -39,7 +39,15 @@ export const experience = [
     title: "Qualtrics, Provo",
     duration: "May 2025 - Present​",
     subtitle: "Senior Product Security Engineer",
-    details: [],
+    details: [
+      "Led full-stack product security ownership by embedding security across the SDLC — \
+      from threat modeling and secure architecture design to code reviews, \
+      automated security testing, and production hardening.",
+      "Championed enterprise-wide security initiatives by building security frameworks, \
+      defining secure coding standards, training 250+ security champions, and \
+      partnering with product and platform teams to ensure compliance with global \
+      security and privacy standards.",
+    ],
     tags: [ "Threat Modeling", "Red Teaming", "STRIDE",  
       "SOC 2", "AI pipelines",  
     ],
