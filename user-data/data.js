@@ -27,7 +27,7 @@ export const bio = [
 ];
 
 export const skills = [
-  "Web/API Penetration Testing, Product Security, Offensive Security",
+  "Product Security, Offensive Security, Web/API Penetration Testing",
   "GCP, AWS, Azure, Kubernetes, Prowler, ScoutSuite, Container Security",
   "OWASP Threat Dragon, BurpSuite, SAST/DAST - checkov, semgrep, gitleaks",
   "Golang, Python, Bash, Java, JavaScript, SQL", 
