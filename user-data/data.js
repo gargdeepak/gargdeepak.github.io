@@ -77,8 +77,7 @@ export const experience = [
     details: [
       "Designed and secured the SaaS control and data plane with 200+ microservices \
       deployed in AWS, Azure and GCP",
-      "Pentesting REST APIs for BOLA, BFLA, IDOR, SSRF, SQLi, Mass Assignment etc..",
-      ],
+    ],
     tags: ["Golang", 
       "Threat Modeling", "Red Teaming", "STRIDE",  
       "SOC 2", "PIA", "Web Application Pentesting", "AI pipelines",  
