@@ -29,8 +29,8 @@ export const bio = [
 export const skills = [
   "Product Security, Offensive Security, Web/API Penetration Testing",
   "Arnica, Wiz, Security Champions program, SOC 2 Compliance",  
-  "GCP, AWS, Azure, Kubernetes, Container Security, Prompt Injection",
   "OWASP Threat Dragon, BurpSuite, SAST/DAST - checkov, semgrep, gitleaks",
+  "GCP, AWS, Azure, Kubernetes, Container Security, Prompt Injection",
   "Golang, Python, Bash, Java, JavaScript, SQL", 
 ];
 
