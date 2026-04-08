@@ -12,11 +12,6 @@ export const bio = [
   Developer in startups and large corporations puts me in a unique position to assess 
   org’s security posture, identify gaps early and implement proactive strategies  
     </li>
-    <li>
-  Led projects in threat modeling, aligning with compliance 
-  frameworks and led teams to drive 
-  secure-by-default solutions to establish and maintain trust across stakeholders
-    </li>
   </ul>
   `,
   `Beyond coding, I enjoy hiking through the serene 
