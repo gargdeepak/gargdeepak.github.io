@@ -14,7 +14,7 @@ export const bio = [
     </li>
   </ul>
   `,
-  `Beyond coding, I enjoy hiking through the serene 
+  `Beyond hacking, I enjoy hiking through the serene 
     <strong>Washington mountains</strong> and experimenting with new 
     recipes in the <strong>kitchen</strong>. Whenever I can, 
     I love to write my thoughts and experiences in InfoSec in my 
@@ -23,9 +23,10 @@ export const bio = [
 
 export const skills = [
   "Product Security, Offensive Security, Web/API Penetration Testing",
-  "Arnica, Wiz, Security Champions program, SOC 2 Compliance",  
-  "OWASP Threat Dragon, BurpSuite, SAST/DAST - checkov, semgrep, gitleaks",
-  "GCP, AWS, Azure, Kubernetes, Container Security, Prompt Injection",
+  "Application Security - threat modeling, secure code review, SAST/DAST - semgrep, gitleaks, arnica, BurpSuite",
+  "Arnica, Wiz, Chainguard, Traceable, Primesec, SOC 2 Compliance",  
+  "Developer Enablement - security tooling, guardrails-not-gates philosophy, training, OWASP Threat Dragon",
+  "Security Program Building - SSDLC design, security champions programs, vendor risk",
   "Golang, Python, Bash, Java, JavaScript, SQL", 
 ];
 
